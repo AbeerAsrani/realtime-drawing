@@ -1,0 +1,15 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px pink;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    color: black;
+  }
